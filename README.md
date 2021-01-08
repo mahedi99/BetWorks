@@ -10,4 +10,4 @@ The follwing Libraby/Technology used to build the project.
 5. Constraint layout
 6. MVVM architetectural pattern
 
-![Alt Text]()
+![Alt Text](https://github.com/mahedi99/BetWorks/blob/master/screen-20210107-205615.gif)
